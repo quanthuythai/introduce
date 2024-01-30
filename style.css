@@ -27,6 +27,7 @@ section {
     background-color: transparent;
     backdrop-filter: blur(5px);
     align-items: center;
+    min-width: min-content;
 }
 table {
     td {
@@ -46,7 +47,7 @@ table {
 #info {
     position: relative;
     align-items: center;
-    min-width: 300px;
+    min-width: 369px;
     padding: 30px;  
 }
 .key {
